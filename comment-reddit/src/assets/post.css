@@ -145,6 +145,10 @@ html {
     color: rgb(148, 148, 148);
 }
 
+.post-item {
+    width: 100%;
+    height: auto;
+}
 
 .header-post{
     /* height: calc( 261.6px - 60px); */
