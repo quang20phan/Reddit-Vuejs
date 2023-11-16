@@ -1,0 +1,9 @@
+import os
+
+filelist = os.listdir('D:/Downloads/reddit-avatars')
+
+i = 0
+for file in filelist:
+    name = f"D:/Downloads/reddit-avatars/avatar_{i}.png"
+    os.rename(file, name)
+    i+=1
