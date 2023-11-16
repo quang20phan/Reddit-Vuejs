@@ -22,7 +22,7 @@
 
     </div>
     <div class="post-item">
-      <div class="post" style="display: flex; justify-content: space-between;">
+      <div class="post" style="display: flex; justify-content: space-between; height: auto; width: 100%;">
           <div class="post_description">
             <span class="post_description_container">
               <a href="">
